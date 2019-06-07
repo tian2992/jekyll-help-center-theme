@@ -26,3 +26,7 @@ paginate: 5
 # Plugins
 plugins_dir:
   - jekyll-admin
+
+sass: 
+  sass_dir: _sass
+  style: compact # possible values: nested expanded compact compressed
